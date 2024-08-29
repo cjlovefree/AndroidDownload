@@ -10,6 +10,17 @@ import org.xutils.x;
 
 import cn.sddman.download.common.DelegateApplicationPackageManager;
 
+/*
+本项目的下载任务创建，参考 
+app\src\main\java\cn\sddman\download\activity\UrlDownLoadActivity.java
+app\src\main\java\cn\sddman\download\App.java
+app\src\main\java\cn\sddman\download\mvp\m\DownLoadModelImp.java
+app\src\main\java\cn\sddman\download\mvp\p\DownloadSuccessPresenterImp.java
+app\src\main\java\cn\sddman\download\mvp\p\TorrentInfoPresenterImp.java
+app\src\main\java\cn\sddman\download\thread\DownUpdateUI.java
+*/
+
+
 public class App extends Application {
     public static App instance = null;
     @Override
