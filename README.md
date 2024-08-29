@@ -49,8 +49,22 @@ git地址：https://github.com/oceanzhang01/MiniThunder (不知道为什么作�
 ![](https://github.com/roomanl/AndroidDownload/blob/master/screen/3.jpg?raw=true)
 ![](https://github.com/roomanl/AndroidDownload/blob/master/screen/4.jpg?raw=true)
 ![](https://github.com/roomanl/AndroidDownload/blob/master/screen/5.jpg?raw=true)
-## 捐赠：
-微信<br> 
-![](https://github.com/roomanl/AndroidDownload/blob/master/screen/wx.png?raw=true)
-<br>支付宝<br> 
-![](https://github.com/roomanl/AndroidDownload/blob/master/screen/zfb.png?raw=true)
+
+## BT下载与云播的其它比较新的可参考项目：
+<br>使用xunlei模块<br> 
+https://github.com/xiaoyvyv/bangumi/tree/main
+https://github.com/qiusunshine/hikerView
+
+https://github.com/123lxw123/VideoWorld_Android
+https://github.com/FongMi/TV
+
+<br>使用libtorrent4j模块<br> 
+https://github.com/proninyaroslav/libretorrent/tree/master
+https://github.com/pwoicik/torrentapp
+https://github.com/qdsfdhvh/DanDanPlayForTVPersonal/tree/dev
+
+
+
+
+
+
