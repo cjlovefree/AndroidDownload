@@ -52,16 +52,16 @@ git地址：https://github.com/oceanzhang01/MiniThunder (不知道为什么作�
 
 ## BT下载与云播的其它比较新的可参考项目：
 <br>使用xunlei模块<br> 
-https://github.com/xiaoyvyv/bangumi/tree/main
-https://github.com/qiusunshine/hikerView
+https://github.com/xiaoyvyv/bangumi/tree/main<br>
+https://github.com/qiusunshine/hikerView<br>
 
-https://github.com/123lxw123/VideoWorld_Android
-https://github.com/FongMi/TV
+https://github.com/123lxw123/VideoWorld_Android<br>
+https://github.com/FongMi/TV<br>
 
 <br>使用libtorrent4j模块<br> 
-https://github.com/proninyaroslav/libretorrent/tree/master
-https://github.com/pwoicik/torrentapp
-https://github.com/qdsfdhvh/DanDanPlayForTVPersonal/tree/dev
+https://github.com/proninyaroslav/libretorrent/tree/master<br>
+https://github.com/pwoicik/torrentapp<br>
+https://github.com/qdsfdhvh/DanDanPlayForTVPersonal/tree/dev<br>
 
 
 
